@@ -1,0 +1,17 @@
+<EmpDetails>
+	<Person>
+		<Id>E00002</Id>
+		<mailId>a@dotnet-helper.com</mailId>
+		<empName>A Someone</empName>		
+	</Person>
+	<Person>
+		<Id>E00002</Id>
+		<mailId>b2@dotnet-helper.com</mailId>
+		<empName>B Someone</empName>		
+	</Person>
+    <Person>
+		<Id>E00002</Id>
+		<mailId>b@dotnet-helper.com</mailId>
+		<empName>B Someone</empName>		
+	</Person>
+</EmpDetails>
