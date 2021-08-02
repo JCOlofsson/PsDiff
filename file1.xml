@@ -1,17 +1,17 @@
-<EmpDetails>
+<Community>
 	<Person>
-		<Id>E00002</Id>
-		<mailId>a@dotnet-helper.com</mailId>
-		<empName>A Someone</empName>		
+		<Id>E00001</Id>
+		<Email>a@mail.com</mailId>
+		<Name>A Someone</empName>		
 	</Person>
 	<Person>
 		<Id>E00002</Id>
-		<mailId>b2@dotnet-helper.com</mailId>
-		<empName>B Someone</empName>		
+		<Email>b2@mail.com</mailId>
+		<Name>B Someone</empName>		
 	</Person>
     <Person>
-		<Id>E00002</Id>
-		<mailId>b@dotnet-helper.com</mailId>
-		<empName>B Someone</empName>		
+		<Id>E00003</Id>
+		<Email>b@mail.com</mailId>
+		<Name>B Someone</empName>		
 	</Person>
-</EmpDetails>
+</Community>
